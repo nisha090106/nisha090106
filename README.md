@@ -1,5 +1,36 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=230&section=header&text=NISHA%20PRAGANE&fontSize=62&fontColor=E0E1DD&fontAlignY=34&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=54&descSize=20&descColor=778DA9" width="100%"/>
+
+<table width="100%">
+<tr>
+<td width="72%" valign="middle">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=170&section=header&text=NISHA%20PRAGANE&fontSize=46&fontColor=FFFFFF&fontAlignY=38&fontAlign=8&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER&descAlignY=58&descAlign=8&descSize=15&descColor=FFB800" width="100%"/>
+
+</td>
+<td width="28%" align="center" style="background-color:#0B132B;">
+
+<img src="https://github.com/nisha090106.png" width="115" height="115"/>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="center" style="background-color:#0B132B;">
+
+[![Email](https://img.shields.io/badge/nishapragane0924@gmail.com-0B132B?style=flat-square&logo=gmail&logoColor=FFB800)](mailto:nishapragane0924@gmail.com)
+&nbsp;
+[![Phone](https://img.shields.io/badge/+91_9373639198-0B132B?style=flat-square&logo=whatsapp&logoColor=FFB800)](tel:+919373639198)
+&nbsp;
+[![Location](https://img.shields.io/badge/Pune,_India-0B132B?style=flat-square&logo=googlemaps&logoColor=FFB800)](https://github.com/nisha090106)
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <a href="https://github.com/nisha090106">
 <img src="https://skillicons.dev/icons?i=github" width="42" style="vertical-align:middle;" />
 </a>
@@ -7,13 +38,18 @@
 <a href="https://www.linkedin.com/in/nisha-pragane-a056a0290">
 <img src="https://skillicons.dev/icons?i=linkedin" width="42" style="vertical-align:middle;" />
 </a>
-&nbsp;
-<a href="mailto:nishapragane0924@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="42" style="vertical-align:middle;" />
-</a>
+
 <br><br>
 
+![Typing](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=778DA9&center=true&vCenter=true&width=750&lines=Building+products%2C+not+just+projects+%F0%9F%9A%80;VIT+Pune+%7C+B.Tech+CSE+(AI)+%F0%9F%8E%93;Turning+problem+statements+into+real+systems+%E2%9A%99%EF%B8%8F)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=3&width=750" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=nisha090106&color=1C2541&style=for-the-badge&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/nisha090106?label=FOLLOWERS&style=for-the-badge&color=3A506B&labelColor=0B132B)
+
 </div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=4&width=1000" />
 </div>
@@ -62,7 +98,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
 
 ### 📅 SamayVidya (समयविद्या)
 **AI Timetable Scheduler**
@@ -152,5 +187,8 @@ Computer-vision system that detects road accidents from live traffic camera feed
 Open to collaborations, research, and roles where engineering rigor actually counts.
 **Let's turn the next hard problem into the next good product. 🚀**
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A506B,50:1C2541,100:0B132B&height=160&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=32&fontColor=FFB800&fontAlignY=68&animation=fadeIn" />
 
 </div>

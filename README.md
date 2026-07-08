@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=180&section=header&text=NISHA%20PRAGANE&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20%2B%20AI%2FML%20Engineer&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,50:1C2541,100:3A506B&height=180&section=header&text=NISHA%20PRAGANE&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=%20%2B%20AI%2FML%20Engineer&descAlignY=60&descSize=18" />
 
 </div>
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Building+products%2C+not+just+projects+%F0%9F%9A%80;VIT+Pune+%7C+B.Tech+CSE+(AI)+%F0%9F%8E%93;Turning+problem+statements+into+real+systems+%E2%9A%99%EF%B8%8F)
+![Typing](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5BC0BE&center=true&vCenter=true&width=700&lines=Building+products%2C+not+just+projects+%F0%9F%9A%80;VIT+Pune+%7C+B.Tech+CSE+(AI)+%F0%9F%8E%93;Turning+problem+statements+into+real+systems+%E2%9A%99%EF%B8%8F)
 
 </div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisha090106)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-pragane-a056a0290)
-[![Mail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishapragane0924@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=5BC0BE)](https://github.com/nisha090106)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1C2541?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-pragane-a056a0290)
+[![Mail](https://img.shields.io/badge/EMAIL-3A506B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishapragane0924@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nisha090106&color=FF6B6B&style=for-the-badge&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/nisha090106?label=FOLLOWERS&style=for-the-badge&color=6BCB77&labelColor=181717)
+![Profile Views](https://komarev.com/ghpvc/?username=nisha090106&color=1C2541&style=for-the-badge&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/nisha090106?label=FOLLOWERS&style=for-the-badge&color=3A506B&labelColor=0B132B)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=4&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=4&width=1000" />
 </div>
 
 ## 🎨 My Techstack
@@ -61,7 +61,7 @@
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=4&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3A506B,50:1C2541,100:0B132B&height=4&width=1000" />
 </div>
 
 ## 🚀 Proof of Work
@@ -70,14 +70,15 @@
 <tr>
 <td width="50%" valign="top">
 
+
 ### 📅 SamayVidya (समयविद्या)
 **AI Timetable Scheduler**
 
 Agentic AI pipeline generating conflict-free academic timetables in under 60s, with role-based dashboards and real-time access control.
 
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/AWS_Bedrock-778DA9?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3A506B?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -87,9 +88,9 @@ Agentic AI pipeline generating conflict-free academic timetables in under 60s, w
 
 Real-time SOAP notes, ICD-10 mapping, red-flag alerts, hallucination guard, and multilingual support via video consultation.
 
-![](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square)
-![](https://img.shields.io/badge/LangGraph-6BCB77?style=flat-square)
-![](https://img.shields.io/badge/WebRTC-FFD93D?style=flat-square&logo=webrtc&logoColor=black)
+![](https://img.shields.io/badge/CrewAI-0B132B?style=flat-square)
+![](https://img.shields.io/badge/LangGraph-1C2541?style=flat-square)
+![](https://img.shields.io/badge/WebRTC-778DA9?style=flat-square&logo=webrtc&logoColor=black)
 
 </td>
 </tr>
@@ -101,9 +102,9 @@ Real-time SOAP notes, ICD-10 mapping, red-flag alerts, hallucination guard, and 
 
 Real-time chat, ATS resume scanning, and a 3-model InterviewIQ pipeline automating 60–70% of placement workflows.
 
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![](https://img.shields.io/badge/Gemini-FF6B6B?style=flat-square&logo=googlegemini&logoColor=white)
+![](https://img.shields.io/badge/React-3A506B?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Socket.io-0B132B?style=flat-square&logo=socket.io&logoColor=white)
+![](https://img.shields.io/badge/Gemini-3A506B?style=flat-square&logo=googlegemini&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -114,21 +115,21 @@ Real-time chat, ATS resume scanning, and a 3-model InterviewIQ pipeline automati
 Computer-vision system that detects road accidents from live traffic camera feeds in real time and triggers automated alerts to speed up emergency response.
 
 ![](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/OpenCV-FF6B6B?style=flat-square&logo=opencv&logoColor=white)
-![](https://img.shields.io/badge/Deep_Learning-6BCB77?style=flat-square)
+![](https://img.shields.io/badge/OpenCV-1C2541?style=flat-square&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/Deep_Learning-1C2541?style=flat-square)
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD93D,50:FF6B6B,100:6BCB77&height=4&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C2541,50:3A506B,100:0B132B&height=4&width=1000" />
 </div>
 
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisha090106&theme=react-dark&color=FF6B6B&line=6BCB77&point=FFD93D&area=true&area_color=FFD93D&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisha090106&theme=react-dark&color=778DA9&line=3A506B&point=E0E1DD&area=true&area_color=3A506B&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
@@ -137,7 +138,7 @@ Computer-vision system that detects road accidents from live traffic camera feed
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=4&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3A506B,50:1C2541,100:0B132B&height=4&width=1000" />
 </div>
 
 ## 🏆 Milestones
@@ -158,6 +159,6 @@ Computer-vision system that detects road accidents from live traffic camera feed
 Open to collaborations, research, and roles where engineering rigor actually counts.
 **Let's turn the next hard problem into the next good product. 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3A506B,50:1C2541,100:0B132B&height=100&section=footer" />
 
 </div>

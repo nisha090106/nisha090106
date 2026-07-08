@@ -13,11 +13,8 @@
 </a>
 <br><br>
 
-Show Image
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=3&width=750" />
-Show Image
-Show Image
+
 
 </div>
 <div align="center">

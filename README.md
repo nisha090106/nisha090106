@@ -1,62 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F2027,100:00C9A7&height=180&section=header&text=NISHA%20PRAGANE&fontSize=52&fontColor=E8FFF7&fontAlignY=55&desc=Full-Stack%20%2B%20AI%2FML%20Engineer&descAlignY=75&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=180&section=header&text=NISHA%20PRAGANE&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20%2B%20AI%2FML%20Engineer&descAlignY=60&descSize=18" />
 
 </div>
 
 <div align="center">
 
-```
-$ whoami
-> B.Tech CSE (AI) @ Vishwakarma Institute of Technology, Pune
-> Shipping full-stack + agentic AI systems, not tutorials
-> Currently building: SIMS — multi-tenant inventory platform
-> Status: prepping for 2026 placements, still merging PRs at 1am
-```
+![Typing](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Building+products%2C+not+just+projects+%F0%9F%9A%80;VIT+Pune+%7C+B.Tech+CSE+(AI)+%F0%9F%8E%93;Currently+shipping%3A+SIMS+%F0%9F%93%A6)
 
 </div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0F2027?style=flat-square&logo=github&logoColor=00C9A7)](https://github.com/nisha090106)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F2027?style=flat-square&logo=linkedin&logoColor=00C9A7)](https://www.linkedin.com/in/nisha-pragane-a056a0290)
-[![Mail](https://img.shields.io/badge/EMAIL-0F2027?style=flat-square&logo=gmail&logoColor=00C9A7)](mailto:nishapragane0924@gmail.com)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=nisha090106&color=00C9A7&style=flat-square&label=VISITORS)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisha090106)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-pragane-a056a0290)
+[![Mail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishapragane0924@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nisha090106&color=FF6B6B&style=for-the-badge&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/nisha090106?label=FOLLOWERS&style=for-the-badge&color=6BCB77&labelColor=181717)
 
 </div>
 
 <br>
 
-## → the stack
+## 🎨 My Techstack
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-**frontend**
-<br>
+🖥️ **Frontend**
+<br><br>
 ![](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css)
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-**backend**
-<br>
+⚙️ **Backend**
+<br><br>
 ![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github)
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-**languages**
-<br>
+💻 **Languages**
+<br><br>
 ![](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts)
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-**ai / ml**
-<br>
+🤖 **AI / ML**
+<br><br>
 ![](https://skillicons.dev/icons?i=sklearn,pandas,vscode,postman)
 
 </td>
@@ -65,7 +60,7 @@ $ whoami
 
 <br>
 
-## → proof of work
+## 🚀 Proof of Work
 
 <table>
 <tr>
@@ -76,7 +71,9 @@ $ whoami
 
 Agentic AI pipeline generating conflict-free academic timetables in under 60s, with role-based dashboards and real-time access control.
 
-`Next.js` `AWS Bedrock` `FastAPI` `Supabase`
+![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -86,7 +83,9 @@ Agentic AI pipeline generating conflict-free academic timetables in under 60s, w
 
 Real-time SOAP notes, ICD-10 mapping, red-flag alerts, hallucination guard, and multilingual support via video consultation.
 
-`CrewAI` `LangGraph` `Groq` `WebRTC`
+![](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square)
+![](https://img.shields.io/badge/LangGraph-6BCB77?style=flat-square)
+![](https://img.shields.io/badge/WebRTC-FFD93D?style=flat-square&logo=webrtc&logoColor=black)
 
 </td>
 </tr>
@@ -98,7 +97,9 @@ Real-time SOAP notes, ICD-10 mapping, red-flag alerts, hallucination guard, and 
 
 Real-time chat, ATS resume scanning, and a 3-model InterviewIQ pipeline automating 60–70% of placement workflows.
 
-`React` `Socket.io` `Gemini` `AWS DynamoDB`
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![](https://img.shields.io/badge/Gemini-FF6B6B?style=flat-square&logo=googlegemini&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -108,7 +109,8 @@ Real-time chat, ATS resume scanning, and a 3-model InterviewIQ pipeline automati
 
 Built a full medicine platform with JWT auth, appointment scheduling, and secure role-based access for doctors and patients.
 
-`Java` `JWT` `Secure Messaging`
+![](https://img.shields.io/badge/Java-FFD93D?style=flat-square&logo=openjdk&logoColor=black)
+![](https://img.shields.io/badge/JWT-6BCB77?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 </td>
 </tr>
@@ -116,37 +118,37 @@ Built a full medicine platform with JWT auth, appointment scheduling, and secure
 
 <br>
 
-## → activity
+## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisha090106&theme=tokyo-night&bg_color=0F2027&color=00C9A7&line=00C9A7&point=E8FFF7&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisha090106&theme=react-dark&color=FF6B6B&line=6BCB77&point=FFD93D&area=true&area_color=FFD93D&hide_border=true&bg_color=FFFFFF" />
 </div>
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nisha090106&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=E8FFF7" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisha090106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&text_color=E8FFF7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nisha090106&show_icons=true&theme=juicyfresh&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisha090106&layout=compact&theme=juicyfresh&hide_border=true" />
 </div>
 
 <br>
 
-## → milestones
+## 🏆 Milestones
 
 | Result | Event | When |
 |---|---|---|
-| 🥉 2nd Runner-Up — ₹30,000 (Agentic AI Track), 200+ teams | Cavista Technologies Hackathon | Feb 2026 |
-| 🏆 Winning Team, Agentic AI Track | Code Apex 2.0 Hackathon, VIT Pune | Mar 2026 |
-| 🏆 Winner | Internal Smart India Hackathon (SIH), VIT Pune | Nov 2025 |
-| 🥇 Top Rank — ₹5,000, 800+ participants | IMPETUS Project Expo, PICT Pune | Mar 2025 |
+| 🥉 **2nd Runner-Up** — ₹30,000 (Agentic AI Track), 200+ teams | Cavista Technologies Hackathon | Feb 2026 |
+| 🏆 **Winning Team**, Agentic AI Track | Code Apex 2.0 Hackathon, VIT Pune | Mar 2026 |
+| 🥇 **Winner** | Internal Smart India Hackathon (SIH), VIT Pune | Nov 2025 |
+| 🎖️ **Top Rank** — ₹5,000, 800+ participants | IMPETUS Project Expo, PICT Pune | Mar 2025 |
 
 <br>
 
 <div align="center">
 
-### *"Code is temporary. The problem you understood deeply enough to solve — that stays."*
+### 💭 *"Code is temporary. The problem you understood deeply enough to solve — that stays."*
 
 Open to collaborations, research, and roles where engineering rigor actually counts.
-**Let's turn the next hard problem into the next good product.**
+**Let's turn the next hard problem into the next good product. 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:00C9A7,100:0F2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=100&section=footer" />
 
 </div>

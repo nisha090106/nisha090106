@@ -158,6 +158,5 @@ Computer-vision system that detects road accidents from live traffic camera feed
 Open to collaborations, research, and roles where engineering rigor actually counts.
 **Let's turn the next hard problem into the next good product. 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3A506B,50:1C2541,100:0B132B&height=100&section=footer" />
 
 </div>

@@ -1,25 +1,25 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=230&section=header&text=NISHA%20PRAGANE&fontSize=62&fontColor=E0E1DD&fontAlignY=34&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=54&descSize=20&descColor=778DA9" width="100%"/>
+<a href="https://github.com/nisha090106">
+<img src="https://skillicons.dev/icons?i=github" width="42" style="vertical-align:middle;" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nisha-pragane-a056a0290">
+<img src="https://skillicons.dev/icons?i=linkedin" width="42" style="vertical-align:middle;" />
+</a>
+&nbsp;
+<a href="mailto:nishapragane0924@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="42" style="vertical-align:middle;" />
+</a>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B132B,50:1C2541,100:3A506B&height=180&section=header&text=NISHA%20PRAGANE&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=AI%2FML%20Engineer&descAlignY=58&descSize=20" />
+Show Image
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=3&width=750" />
+Show Image
+Show Image
+
 </div>
-
-<div align="center">
-
-![Typing](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5BC0BE&center=true&vCenter=true&width=700&lines=Building+products%2C+not+just+projects+%F0%9F%9A%80;VIT+Pune+%7C+B.Tech+CSE+(AI)+%F0%9F%8E%93;Turning+problem+statements+into+real+systems+%E2%9A%99%EF%B8%8F)
-
-</div>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=5BC0BE)](https://github.com/nisha090106)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1C2541?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-pragane-a056a0290)
-[![Mail](https://img.shields.io/badge/EMAIL-3A506B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishapragane0924@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=nisha090106&color=1C2541&style=for-the-badge&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/nisha090106?label=FOLLOWERS&style=for-the-badge&color=3A506B&labelColor=0B132B)
-
-</div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=4&width=1000" />
 </div>

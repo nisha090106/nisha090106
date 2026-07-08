@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=170&section=header&text=NISHA%20PRAGANE&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER&descAlignY=62&descSize=15&descColor=FFB800" width="100%"/>
-<br><br>
 
 [![Email](https://img.shields.io/badge/nishapragane0924@gmail.com-0B132B?style=flat-square&logo=gmail&logoColor=FFB800)](mailto:nishapragane0924@gmail.com)
 &nbsp;

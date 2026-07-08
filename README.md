@@ -71,28 +71,6 @@ $ whoami
 <tr>
 <td width="50%" valign="top">
 
-### 🏬 SIMS
-**Smart Inventory Management System**
-
-Multi-tenant wholesale-retail platform — independent wholesaler/retailer logins, warehouse & store management, full request-fulfillment-rejection lifecycle.
-
-`React 18` `Redux Toolkit` `Node.js` `MySQL` `Sequelize`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 USify
-**Used Car Price Prediction**
-
-End-to-end ML pipeline — preprocessing, feature engineering, and model training (Linear Regression, Random Forest, XGBoost + GridSearchCV), wrapped in a deployable inference service.
-
-`Python` `Scikit-Learn` `Pandas` `XGBoost`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 📅 SamayVidya (समयविद्या)
 **AI Timetable Scheduler**
 

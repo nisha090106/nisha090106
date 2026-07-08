@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=180&section=header&text=NISHA%20PRAGANE&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20%2B%20AI%2FML%20Engineer&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=180&section=header&text=NISHA%20PRAGANE&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20%2B%20AI%2FML%20Engineer&descAlignY=60&descSize=18" />
 
 </div>
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Building+products%2C+not+just+projects+%F0%9F%9A%80;VIT+Pune+%7C+B.Tech+CSE+(AI)+%F0%9F%8E%93;Currently+shipping%3A+SIMS+%F0%9F%93%A6)
+![Typing](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Building+products%2C+not+just+projects+%F0%9F%9A%80;VIT+Pune+%7C+B.Tech+CSE+(AI)+%F0%9F%8E%93;Turning+problem+statements+into+real+systems+%E2%9A%99%EF%B8%8F)
 
 </div>
 
@@ -21,7 +21,9 @@
 
 </div>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=4&width=1000" />
+</div>
 
 ## 🎨 My Techstack
 
@@ -58,7 +60,9 @@
 </tr>
 </table>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=4&width=1000" />
+</div>
 
 ## 🚀 Proof of Work
 
@@ -104,32 +108,37 @@ Real-time chat, ATS resume scanning, and a 3-model InterviewIQ pipeline automati
 </td>
 <td width="50%" valign="top">
 
-### 💼 GlobesMinds Internship
-**Trainee Java Developer**
+### 🚨 Road Accident Detection System
+**Real-Time Accident Detection & Alerting**
 
-Built a full medicine platform with JWT auth, appointment scheduling, and secure role-based access for doctors and patients.
+Computer-vision system that detects road accidents from live traffic camera feeds in real time and triggers automated alerts to speed up emergency response.
 
-![](https://img.shields.io/badge/Java-FFD93D?style=flat-square&logo=openjdk&logoColor=black)
-![](https://img.shields.io/badge/JWT-6BCB77?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-FF6B6B?style=flat-square&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/Deep_Learning-6BCB77?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD93D,50:FF6B6B,100:6BCB77&height=4&width=1000" />
+</div>
 
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisha090106&theme=react-dark&color=FF6B6B&line=6BCB77&point=FFD93D&area=true&area_color=FFD93D&hide_border=true&bg_color=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisha090106&theme=react-dark&color=FF6B6B&line=6BCB77&point=FFD93D&area=true&area_color=FFD93D&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nisha090106&show_icons=true&theme=juicyfresh&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisha090106&layout=compact&theme=juicyfresh&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nisha090106&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisha090106&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=4&width=1000" />
+</div>
 
 ## 🏆 Milestones
 
@@ -149,6 +158,6 @@ Built a full medicine platform with JWT auth, appointment scheduling, and secure
 Open to collaborations, research, and roles where engineering rigor actually counts.
 **Let's turn the next hard problem into the next good product. 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=100&section=footer" />
 
 </div>

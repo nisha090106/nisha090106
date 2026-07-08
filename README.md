@@ -1,11 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=170&section=header&text=NISHA%20PRAGANE&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER&descAlignY=62&descSize=15&descColor=FFB800" width="100%"/>
-
-<br>
-
-<img src="https://github.com/nisha090106.png" width="120" height="120"/>
-
 <br><br>
 
 [![Email](https://img.shields.io/badge/nishapragane0924@gmail.com-0B132B?style=flat-square&logo=gmail&logoColor=FFB800)](mailto:nishapragane0924@gmail.com)
@@ -15,7 +10,6 @@
 [![Location](https://img.shields.io/badge/Pune,_India-0B132B?style=flat-square&logo=googlemaps&logoColor=FFB800)](https://github.com/nisha090106)
 
 <br><br>
-
 <a href="https://github.com/nisha090106">
 <img src="https://skillicons.dev/icons?i=github" width="42" />
 </a>

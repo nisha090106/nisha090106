@@ -1,172 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=170&section=header&text=NISHA%20PRAGANE&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER&descAlignY=62&descSize=15&descColor=FFB800" width="100%"/>
+# Hi, I'm Nisha Pragane 👋
 
-[![Email](https://img.shields.io/badge/nishapragane0924@gmail.com-0B132B?style=flat-square&logo=gmail&logoColor=FFB800)](mailto:nishapragane0924@gmail.com)
-&nbsp;
-[![Phone](https://img.shields.io/badge/+91_9373639198-0B132B?style=flat-square&logo=whatsapp&logoColor=FFB800)](tel:+919373639198)
-&nbsp;
-[![Location](https://img.shields.io/badge/Pune,_India-0B132B?style=flat-square&logo=googlemaps&logoColor=FFB800)](https://github.com/nisha090106)
+### `Full-Stack Developer` · `AI/ML Engineer` · `B.Tech CSE (AI), VIT Pune`
 
-<br><br>
-<a href="https://github.com/nisha090106">
-<img src="https://skillicons.dev/icons?i=github" width="42" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nisha-pragane-a056a0290">
-<img src="https://skillicons.dev/icons?i=linkedin" width="42" />
-</a>
+```
+> whoami
+Turning problem statements into real systems since day one.
+```
 
-<br><br>
+📍 Pune, India &nbsp;·&nbsp; 📧 nishapragane0924@gmail.com &nbsp;·&nbsp; 📱 +91 9373639198
 
-![Typing](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=778DA9&center=true&vCenter=true&width=750&lines=Building+products%2C+not+just+projects+%F0%9F%9A%80;VIT+Pune+%7C+B.Tech+CSE+(AI)+%F0%9F%8E%93;Turning+problem+statements+into+real+systems+%E2%9A%99%EF%B8%8F)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=3&width=750" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=nisha090106&color=1C2541&style=for-the-badge&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/nisha090106?label=FOLLOWERS&style=for-the-badge&color=3A506B&labelColor=0B132B)
+[![GitHub](https://img.shields.io/badge/-nisha090106-181717?style=flat-square&logo=github)](https://github.com/nisha090106)
+[![LinkedIn](https://img.shields.io/badge/-Nisha_Pragane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-pragane-a056a0290)
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=4&width=1000" />
-</div>
+<br>
 
-## 🎨 My Techstack
+## ⚡ About
+
+I build products, not just projects. My focus sits at the intersection of **full-stack engineering** and **applied AI** — agentic pipelines, real-time systems, and tools that actually get used, not just demoed.
+
+```python
+class Nisha:
+    def __init__(self):
+        self.role       = "Full-Stack Developer & AI/ML Engineer"
+        self.education  = "B.Tech CSE (AI), VIT Pune"
+        self.focus      = ["Agentic AI", "Full-Stack Systems", "Computer Vision"]
+        self.currently  = "Open to collaborations, research & high-rigor roles"
+
+    def philosophy(self):
+        return "Code is temporary. The problem you understood deeply — that stays."
+```
+
+<br>
+
+## 🧰 Tech Stack
 
 <table>
-<tr>
-<td width="25%" valign="top" align="center">
-
-🖥️ **Frontend**
-<br><br>
-![](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css)
-
-</td>
-<td width="25%" valign="top" align="center">
-
-⚙️ **Backend**
-<br><br>
-![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github)
-
-</td>
-<td width="25%" valign="top" align="center">
-
-💻 **Languages**
-<br><br>
-![](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts)
-
-</td>
-<td width="25%" valign="top" align="center">
-
-🤖 **AI / ML**
-<br><br>
-![](https://skillicons.dev/icons?i=sklearn,pandas,vscode,postman)
-
-</td>
-</tr>
+<tr><td><b>Frontend</b></td><td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</td></tr>
+<tr><td><b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</td></tr>
+<tr><td><b>AI / ML</b></td><td>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C2541?style=flat-square"/>
+<img src="https://img.shields.io/badge/CrewAI-0B132B?style=flat-square"/>
+</td></tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3A506B,50:1C2541,100:0B132B&height=4&width=1000" />
-</div>
+<br>
 
-## 🚀 Proof of Work
+## 🛠️ Proof of Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><b>📅 SamayVidya (समयविद्या)</b> — AI Timetable Scheduler</summary>
+<br>
 
-### 📅 SamayVidya (समयविद्या)
-**AI Timetable Scheduler**
+Agentic AI pipeline generating conflict-free academic timetables in under 60 seconds, with role-based dashboards and real-time access control.
 
-Agentic AI pipeline generating conflict-free academic timetables in under 60s, with role-based dashboards and real-time access control.
+`Next.js` `AWS Bedrock` `Supabase`
+</details>
 
-![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/AWS_Bedrock-778DA9?style=flat-square&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Supabase-3A506B?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 Smart EMR
-**Diagnostic Assistant**
+<details>
+<summary><b>🩺 Smart EMR</b> — Diagnostic Assistant</summary>
+<br>
 
 Real-time SOAP notes, ICD-10 mapping, red-flag alerts, hallucination guard, and multilingual support via video consultation.
 
-![](https://img.shields.io/badge/CrewAI-0B132B?style=flat-square)
-![](https://img.shields.io/badge/LangGraph-1C2541?style=flat-square)
-![](https://img.shields.io/badge/WebRTC-778DA9?style=flat-square&logo=webrtc&logoColor=black)
+`CrewAI` `LangGraph` `WebRTC`
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Placify
-**AI Placement Prep Platform**
+<details>
+<summary><b>🎓 Placify</b> — AI Placement Prep Platform</summary>
+<br>
 
 Real-time chat, ATS resume scanning, and a 3-model InterviewIQ pipeline automating 60–70% of placement workflows.
 
-![](https://img.shields.io/badge/React-3A506B?style=flat-square&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Socket.io-0B132B?style=flat-square&logo=socket.io&logoColor=white)
-![](https://img.shields.io/badge/Gemini-3A506B?style=flat-square&logo=googlegemini&logoColor=white)
+`React` `Socket.io` `Gemini`
+</details>
 
-</td>
-<td width="50%" valign="top">
-
-### 🚨 Road Accident Detection System
-**Real-Time Accident Detection & Alerting**
+<details>
+<summary><b>🚨 Road Accident Detection System</b> — Real-Time Detection & Alerting</summary>
+<br>
 
 Computer-vision system that detects road accidents from live traffic camera feeds in real time and triggers automated alerts to speed up emergency response.
 
-![](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/OpenCV-1C2541?style=flat-square&logo=opencv&logoColor=white)
-![](https://img.shields.io/badge/Deep_Learning-1C2541?style=flat-square)
+`Python` `OpenCV` `Deep Learning`
+</details>
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C2541,50:3A506B,100:0B132B&height=4&width=1000" />
-</div>
-
-## 📊 GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisha090106&theme=react-dark&color=778DA9&line=3A506B&point=E0E1DD&area=true&area_color=3A506B&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nisha090106&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisha090106&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3A506B,50:1C2541,100:0B132B&height=4&width=1000" />
-</div>
+<br>
 
 ## 🏆 Milestones
 
 | Result | Event | When |
-|---|---|---|
-| 🥉 **2nd Runner-Up** — ₹30,000 (Agentic AI Track), 200+ teams | Cavista Technologies Hackathon | Feb 2026 |
-| 🏆 **Winning Team**, Agentic AI Track | Code Apex 2.0 Hackathon, VIT Pune | Mar 2026 |
-| 🥇 **Winner** | Internal Smart India Hackathon (SIH), VIT Pune | Nov 2025 |
-| 🎖️ **Top Rank** — ₹5,000, 800+ participants | IMPETUS Project Expo, PICT Pune | Mar 2025 |
+|:---|:---|:---|
+| 🥉 2nd Runner-Up — ₹30,000 (Agentic AI Track), 200+ teams | Cavista Technologies Hackathon | Feb 2026 |
+| 🏆 Winning Team, Agentic AI Track | Code Apex 2.0 Hackathon, VIT Pune | Mar 2026 |
+| 🥇 Winner | Internal Smart India Hackathon (SIH), VIT Pune | Nov 2025 |
+| 🎖️ Top Rank — ₹5,000, 800+ participants | IMPETUS Project Expo, PICT Pune | Mar 2025 |
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nisha090106&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisha090106&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisha090106&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
 
 <br>
 
 <div align="center">
 
-### 💭 *"Code is temporary. The problem you understood deeply enough to solve — that stays."*
-
-Open to collaborations, research, and roles where engineering rigor actually counts.
-**Let's turn the next hard problem into the next good product. 🚀**
+📊 ![Profile Views](https://komarev.com/ghpvc/?username=nisha090106&color=blueviolet&style=flat-square&label=VISITORS)
+&nbsp;·&nbsp;
+👥 ![Followers](https://img.shields.io/github/followers/nisha090106?label=FOLLOWERS&style=flat-square&color=blueviolet)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A506B,50:1C2541,100:0B132B&height=160&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=32&fontColor=FFB800&fontAlignY=68&animation=fadeIn" />
+**Open to collaborations, research, and roles where engineering rigor actually counts.**
+
+<br>
+
+`Let's turn the next hard problem into the next good product.`
 
 </div>

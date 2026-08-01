@@ -8,7 +8,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-0A1128?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisha090106)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-pragane-a056a0290)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nisha0924/)
-📍 Pune, India &nbsp;|&nbsp;📱 +91 9373639198
+<br>
+📍 Pune, India &nbsp;|&nbsp;
 
 <br>
 

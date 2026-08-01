@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:1C2541,100:D4AF37&height=200&section=header&text=✨%20Nisha%20Pragane%20✨&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20·%20AI%2FML%20Engineer&descAlignY=62&descSize=18" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=🚀+Turning+problem+statements+into+real+systems;⚡+Building+things+that+actually+get+used;💡+Code+is+temporary.+Understanding+is+forever;🌟+Agentic+AI+·+Full-Stack+·+Innovation" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:1C2541,100:D4AF37&height=200&section=header&text=%20Nisha%20Pragane%20&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20·%20AI%2FML%20Engineer&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 

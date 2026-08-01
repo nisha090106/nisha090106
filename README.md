@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:1C2541,100:D4AF37&height=200&section=header&text=%20Nisha%20Pragane%20&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20·%20AI%2FML%20Engineer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:1C2541,100:D4AF37&height=200&section=header&text=✨%20Nisha%20Pragane%20✨&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20·%20AI%2FML%20Engineer&descAlignY=62&descSize=18" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=🚀+Turning+problem+statements+into+real+systems;⚡+Building+things+that+actually+get+used;💡+Code+is+temporary.+Understanding+is+forever;🌟+Agentic+AI+·+Full-Stack+·+Innovation" alt="Typing SVG"/>
 
 <br>
 
@@ -15,12 +19,7 @@
 
 <br>
 
-<!-- Requires a snake-generation GitHub Action (e.g. Platane/snk) running on the nisha090106/nisha090106 repo, publishing to an `output` branch -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nisha090106/nisha090106/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nisha090106/nisha090106/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nisha090106/nisha090106/output/github-snake.svg" width="100%"/>
-</picture>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="700"/>
 
 </div>
 
@@ -55,45 +54,28 @@ class Nisha:
 
 **🎨 Frontend**
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css" />
 
 **⚙️ Backend**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git" />
 
 **💻 Languages**
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" />
 
 **🤖 AI / ML**
 
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,tensorflow" />
+&nbsp;
 <img src="https://img.shields.io/badge/LangGraph-1C2541?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CrewAI-0B132B?style=for-the-badge"/>
 
 **☁️ Cloud & Tools**
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel" />
+&nbsp;
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
 

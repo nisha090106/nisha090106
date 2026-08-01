@@ -20,9 +20,8 @@
 
 ## ⚡ About
 
-Hi, I'm Nisha — a final-year B.Tech CSE (AI) student at VIT Pune who'd rather ship something real than talk about shipping something real. Four hackathon wins in, I still get the same rush from watching a system I built hold up under real pressure instead of just a demo panel.
-
-I build products, not just projects. My focus sits at the intersection of **full-stack engineering** and **applied AI** — agentic pipelines, real-time systems, and tools that actually get used, not just demoed.
+Hi, I'm Nisha — a Third year B.Tech CSE (AI) engineer working across full-stack development and applied AI/ML, from building production-grade web apps to designing agentic AI pipelines.
+I build products, not just projects. 
 
 ```python
 class Nisha:

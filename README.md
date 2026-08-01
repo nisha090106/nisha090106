@@ -138,21 +138,34 @@ Computer-vision system that detects road accidents from live traffic camera feed
 <br>
 📊 GitHub Analytics
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=nisha090106&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1128&title_color=D4AF37&icon_color=D4AF37"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisha090106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1128&title_color=D4AF37"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nisha090106&theme=tokyo-night&hide_border=true&area=true&bg_color=0A1128&color=D4AF37&line=D4AF37&point=FFFFFF" width="100%"/> <img src="https://leetcard.jacoblin.cool/Nisha0924?theme=dark&font=Fira%20Code&ext=activity" width="100%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisha090106&theme=tokyonight&hide_border=true&background=0A1128&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="100%"/> </div> <br>
-🤝 Connect with Me
+## 🤝 Connect with Me
+
 <div align="center">
 
-Show Image Show Image Show Image Show Image Show Image
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisha090106)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-pragane-a056a0290)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishapragane0924@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nisha0924/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 <br>
 
-📊 Show Image  ·  👥 Show Image  ·  ⭐ Show Image
+📊 ![Profile Views](https://komarev.com/ghpvc/?username=nisha090106&color=D4AF37&style=for-the-badge&label=VISITORS)
+&nbsp;·&nbsp;
+👥 ![Followers](https://img.shields.io/github/followers/nisha090106?label=FOLLOWERS&style=for-the-badge&color=D4AF37)
+&nbsp;·&nbsp;
+⭐ ![Stars](https://img.shields.io/github/stars/nisha090106?label=STARS&style=for-the-badge&color=D4AF37)
 
 <br>
 
-Open to collaborations, research, and roles where engineering rigor actually counts.
+**Open to collaborations, research, and roles where engineering rigor actually counts.**
 
 <br>
 
-Let's turn the next hard problem into the next good product.
+`Let's turn the next hard problem into the next good product.`
 
-<br> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:1C2541,100:0A1128&height=100&section=footer" width="100%"/> </div>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:1C2541,100:0A1128&height=100&section=footer" width="100%"/>
+
+</div>

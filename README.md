@@ -1,5 +1,5 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:1C2541,100:D4AF37&height=250&section=header&text=✨%20Nisha%20Pragane%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20·%20AI%2FML%20Engineer&descAlignY=62&descSize=20" width="100%"/>
-https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Turning+problem+statements+into+real+systems;%E2%9A%A1+Building+things+that+actually+get+used;%F0%9F%92%A1+Code+is+temporary.+Understanding+is+forever
+
 B.Tech CSE (AI) · VIT Pune
 📍 Pune, India  |  📧 nishapragane0924@gmail.com  |  📱 +91 9373639198
 https://img.shields.io/badge/-nisha090106-181717?style=flat-square&logo=github

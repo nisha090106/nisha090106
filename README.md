@@ -22,10 +22,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/nisha090106/nisha090106/output/github-snake.svg" width="100%"/>
 </picture>
 
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="700"/>
-
 </div>
 
 <br>

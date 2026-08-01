@@ -9,8 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/-nisha090106-0A1128?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisha090106)
 [![LinkedIn](https://img.shields.io/badge/-Nisha_Pragane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-pragane-a056a0290)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nisha0924/)
 
 <br>
 

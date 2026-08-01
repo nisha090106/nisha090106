@@ -1,23 +1,11 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:1C2541,100:D4AF37&height=180&section=header&text=Nisha%20Pragane&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20·%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Turning+problem+statements+into+real+systems;Building+things+that+actually+get+used)](https://git.io/typing-svg)
-
-<br>
-
-`B.Tech CSE (AI) · VIT Pune`
-
-📍 Pune, India &nbsp;|&nbsp; 📧 [nishapragane0924@gmail.com](mailto:nishapragane0924@gmail.com) &nbsp;|&nbsp; 📱 +91 9373639198
-
-[![GitHub](https://img.shields.io/badge/-nisha090106-181717?style=flat-square&logo=github)](https://github.com/nisha090106)
-[![LinkedIn](https://img.shields.io/badge/-Nisha_Pragane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-pragane-a056a0290)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:1C2541,100:D4AF37&height=250&section=header&text=✨%20Nisha%20Pragane%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20·%20AI%2FML%20Engineer&descAlignY=62&descSize=20" width="100%"/>
+https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Turning+problem+statements+into+real+systems;%E2%9A%A1+Building+things+that+actually+get+used;%F0%9F%92%A1+Code+is+temporary.+Understanding+is+forever
+B.Tech CSE (AI) · VIT Pune
+📍 Pune, India  |  📧 nishapragane0924@gmail.com  |  📱 +91 9373639198
+https://img.shields.io/badge/-nisha090106-181717?style=flat-square&logo=github
+https://img.shields.io/badge/-Nisha_Pragane-0A66C2?style=flat-square&logo=linkedin&logoColor=white
 </div>
-
 <br>
-
 ## ⚡ About
 
 Hi, I'm Nisha — a Third year B.Tech CSE (AI) engineer working across full-stack development and applied AI/ML, from building production-grade web apps to designing agentic AI pipelines.

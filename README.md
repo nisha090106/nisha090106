@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A1128,50:1C2541,100:D4AF37&height=180&section=header&text=Nisha%20Pragane&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20·%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:1C2541,100:D4AF37&height=180&section=header&text=Nisha%20Pragane&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20·%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
@@ -14,13 +14,13 @@
 
 [![GitHub](https://img.shields.io/badge/-nisha090106-181717?style=flat-square&logo=github)](https://github.com/nisha090106)
 [![LinkedIn](https://img.shields.io/badge/-Nisha_Pragane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-pragane-a056a0290)
-[![Gmail](https://img.shields.io/badge/-Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nishapragane0924@gmail.com)
-
 </div>
 
 <br>
 
 ## ⚡ About
+
+Hi, I'm Nisha — a final-year B.Tech CSE (AI) student at VIT Pune who'd rather ship something real than talk about shipping something real. Four hackathon wins in, I still get the same rush from watching a system I built hold up under real pressure instead of just a demo panel.
 
 I build products, not just projects. My focus sits at the intersection of **full-stack engineering** and **applied AI** — agentic pipelines, real-time systems, and tools that actually get used, not just demoed.
 

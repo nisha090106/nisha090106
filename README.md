@@ -2,7 +2,7 @@
 
 # Hi, I'm Nisha Pragane 👋
 
-### `Full-Stack Developer` · `AI/ML Engineer` · `B.Tech CSE (AI), VIT Pune`
+### `Software Developer` · `AI/ML Engineer` · `B.Tech CSE (AI), VIT Pune`
 
 ```
 > whoami

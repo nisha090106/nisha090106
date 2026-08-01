@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Turning+problem+statements+into+real+systems;Agentic+AI+%7C+Full-Stack+Systems+%7C+Computer+Vision;Building+things+that+actually+get+used)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Turning+problem+statements+into+real+systems;Building+things+that+actually+get+used)](https://git.io/typing-svg)
 
 <br>
 

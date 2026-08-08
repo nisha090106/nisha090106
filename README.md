@@ -19,7 +19,7 @@
 
 ## ⚡ About
 
-Hi, I'm Nisha — a final-year B.Tech CSE (AI) engineer working across full-stack development and applied AI/ML, from building production-grade web apps to designing agentic AI pipelines.
+Hi, I'm Nisha — a Third-year B.Tech CSE (AI) engineer working across full-stack development and applied AI/ML, from building production-grade web apps to designing agentic AI pipelines.
 
 I build products, not just projects.
 
